@@ -1,0 +1,39 @@
+There are 40 training images
+There are 40 testing image
+Testing
+34 is Recognized with confidence 82.6870647747
+30 is Recognized with confidence 54.0211256872
+24 is Recognized with confidence 61.1763145837
+20 is Recognized with confidence 59.6345210892
+35 is Recognized with confidence 71.986250332
+8 is Recognized with confidence 58.3251228812
+26 is Recognized with confidence 76.1114483465
+28 is Recognized with confidence 77.6444855428
+13 is Recognized with confidence 58.8641651302
+36 is Recognized with confidence 55.1829044159
+1 is Recognized with confidence 62.7458738557
+6 is Recognized with confidence 45.8693540829
+5 is Recognized with confidence 62.7665060405
+18 is Recognized with confidence 58.8136471342
+23 is Recognized with confidence 86.3112680299
+17 is Recognized with confidence 49.5602571651
+4 is Recognized with confidence 61.2145363986
+38 is Recognized with confidence 61.9757552283
+37 is Recognized with confidence 56.884936416
+12 is Recognized with confidence 56.4698087581
+22 is Recognized with confidence 53.490648048
+21 is Recognized with confidence 65.8229972282
+10 is Recognized with confidence 61.4354466323
+33 is Recognized with confidence 60.8050022965
+19 is Recognized with confidence 64.2010777501
+9 is Recognized with confidence 56.6669584775
+27 is Recognized with confidence 59.8321705531
+11 is Recognized with confidence 62.155963936
+32 is Recognized with confidence 57.9285111992
+40 is Recognized with confidence 56.3193148014
+3 is Recognized with confidence 60.0501061646
+7 is Recognized with confidence 56.1970372887
+39 is Recognized with confidence 63.9621391498
+14 is Recognized with confidence 60.3404526725
+29 is Recognized with confidence 61.6974952317
+31 is Recognized with confidence 54.820045743
